@@ -1,0 +1,12 @@
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Repo\UserManager\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Repo\UserManager\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Repo\UserManager\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Repo\UserManager\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
