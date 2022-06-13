@@ -2,8 +2,8 @@
 
 
 ##Resuired Softwares 
-Visual Studio 2022
-Mongo DB Local Server
+Visual Studio 2022\
+Mongo DB Local Server\
 
 
 ##Techologies Used 
